@@ -1,0 +1,55 @@
+*{ 
+    padding: 0px;
+    margin: 0px;
+    color: azure;   
+}
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+}
+button{
+    background-color: #f0880f;
+}
+#logo{
+    color: #f0880f;
+    margin-left: 0%;
+    text-decoration: 30px;
+}
+a{
+    margin: 90px;
+
+}
+.contect{
+    background-color: antiquewhite;
+    display:flex;
+    height: 400px;
+
+}
+#footer{
+    background-color:#0f1111;
+    text-align: center;
+}
+#box1{ 
+    height:100px;
+    width: 100px;
+    background-color: rgba(182, 71, 117,.7);
+    margin: 10px;
+    border:2px solid black;
+    background-image:url("./buty.png");
+}#box2{ 
+    height:100px;
+    width: 100pX;
+    background-color: #5bbdee;
+    margin: 10px;
+    border:2px solid black;
+    background-image:url("./cloths.jpg");
+    
+}#box3{ 
+    height:130px;
+    width: 100px;
+    background-color: rgb(234, 142, 49);
+    margin: 10px;
+    border:2px solid black;
+    background-image:url("./buds.jpg");
+}
+
