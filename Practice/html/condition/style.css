@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+} 
+body{
+    --maa : red;
+    --dhar : #4fb8d8;
+    
+}
+.container{ 
+    padding: 45px;
+    
+}
+.box{
+    padding:20px;
+} 
+h1{
+    text-align: center;
+    background-color: var(--dhar,blue);
+}
+h2{
+    
+    background-color: var(--dhar);
+    
+    
+}
+h4{
+    background-color: var(--maa);
+}

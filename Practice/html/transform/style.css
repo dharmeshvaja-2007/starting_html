@@ -1,0 +1,21 @@
+.out-cotainer{
+    background-color: aqua;
+    height: 300px;
+    width: 300px;
+    margin:110px  auto;
+}
+.iner-cotainer{
+    background-color:blanchedalmond;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    transform:translate(66px,90px);
+    transition: .9s;
+    
+}
+.iner-cotainer:hover{
+    transform:rotate(25deg);
+
+}
